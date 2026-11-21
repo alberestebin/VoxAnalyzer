@@ -80,3 +80,13 @@ vox_analyzer.py           Código del sistema (captura, DSP, LPC, interfaz Tkint
 requirements.txt          Dependencias de pip
 images/                   Capturas de la interfaz en orden
 ```
+
+**Docente**
+
+Manuel Ruiz
+
+**Integrantes del equipo**
+
+- Ángel Humberto Alonzo Espinoza
+- Raúl Cortina Solis
+- Saul Alberto De la Cruz Maldonado
